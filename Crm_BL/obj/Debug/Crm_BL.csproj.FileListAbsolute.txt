@@ -1,0 +1,6 @@
+N:\.net\repository\crm_shop\Crm_BL\bin\Debug\Crm_BL.dll
+N:\.net\repository\crm_shop\Crm_BL\bin\Debug\Crm_BL.pdb
+N:\.net\repository\crm_shop\Crm_BL\obj\Debug\Crm_BL.csproj.AssemblyReference.cache
+N:\.net\repository\crm_shop\Crm_BL\obj\Debug\Crm_BL.csproj.CoreCompileInputs.cache
+N:\.net\repository\crm_shop\Crm_BL\obj\Debug\Crm_BL.dll
+N:\.net\repository\crm_shop\Crm_BL\obj\Debug\Crm_BL.pdb
